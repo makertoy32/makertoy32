@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A Passionate Frontend Developer from Lahore,Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makertoy32" alt="makertoy32" /></a> </p>
+
 
 - 🔭 I’m currently working on **Portfolio Website**
 
