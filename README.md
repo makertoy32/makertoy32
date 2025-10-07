@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio Websote Based on React + Tailwind<br>🤝 I’m looking for Work Based On my Skills<br>🌱 I’m currently learning React Js<br>💬 Ask me about Based on My Skills<br>⚡ Fun fact I am a Skilled Gamer
+🔭 I’m currently Studying Bachelors in Computer Science and Working on Projects Based on ReactJs + Tailwind<br>🤝 I’m looking for Work Based On my Skills<br>🌱 I’m currently learning React Js<br>💬 Ask me about Based on My Skills<br>⚡ Fun fact I am a Skilled Gamer
 
 
 ## 🌐 Socials:
